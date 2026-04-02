@@ -1,4 +1,6 @@
-# 🎬 Ad Generator
+# Ad Generator
+
+To execute the stack run the runner.ipynb file
 
 AI-powered video advertisement generator. Give it a product description and it produces a fully rendered `.mp4` ad — cinematic scenes, voiceover, and background music — entirely from local models, no paid API keys required.
 
